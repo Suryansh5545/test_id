@@ -16,7 +16,7 @@ end_date: 2099-05-31 23:59:59
 published: True
 
 tags: ["random", "number", "generation"]
-domain: 'CV'
+domain: 'NLP'
 
 leaderboard:
   - id: 1
