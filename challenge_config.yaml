@@ -1,6 +1,6 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: Random Number Generator Challenge
+title: Domain and Tags Test
 short_description: Random number generation challenge for each submission
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
@@ -14,6 +14,9 @@ is_docker_based: False
 start_date: 2019-01-01 00:00:00
 end_date: 2099-05-31 23:59:59
 published: True
+
+tags: ["random", "number", "generation"]
+domain: 'CV'
 
 leaderboard:
   - id: 1
