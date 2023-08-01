@@ -15,8 +15,8 @@ start_date: 2019-01-01 00:00:00
 end_date: 2099-05-31 23:59:59
 published: True
 
-tags: ["random", "number", "generation"]
 domain: 'NLP'
+
 
 leaderboard:
   - id: 1
@@ -142,6 +142,12 @@ challenge_phase_splits:
     is_leaderboard_order_descending: True
   - challenge_phase_id: 2
     leaderboard_id: 1
+    dataset_split_id: 2
+    visibility: 1
+    leaderboard_decimal_precision: 2
+    is_leaderboard_order_descending: True
+  - challenge_phase_id: 2
+    leaderboard_id: 2
     dataset_split_id: 2
     visibility: 1
     leaderboard_decimal_precision: 2
