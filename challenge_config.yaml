@@ -22,6 +22,10 @@ prizes:
     amount: 100USD
     description: First Prize
 
+sponsors:
+  - name: Sponsor 1
+    website: https://evalai.com
+
 
 leaderboard:
   - id: 1
