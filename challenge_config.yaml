@@ -19,7 +19,7 @@ domain: 'NLP'
 tags: ['test1']
 prizes:
   - rank: 1
-    amount: 100
+    amount: 100USD
     description: First Prize
 
 
