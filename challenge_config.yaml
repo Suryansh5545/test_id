@@ -17,6 +17,10 @@ published: True
 
 domain: 'NLP'
 tags: ['test1']
+prizes:
+  - rank: 1
+    amount: 100
+    description: First Prize
 
 
 leaderboard:
